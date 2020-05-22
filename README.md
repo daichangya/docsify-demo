@@ -28,3 +28,5 @@ docsify 是一个动态生成文档网站的工具。不同于 GitBook、Hexo �
 
 更多内容请关注公众号：
 ![分布式编程](http://www.images.mdan.top/qrcode_for_gh_1e2587cc42b1_258_1587996055777.jpg)
+
+[https://zthinker.com/](https://zthinker.com/)
